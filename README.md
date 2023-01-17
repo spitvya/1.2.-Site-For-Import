@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-https://github.com/netology-ds-team/git-homeworks/raw/main/1_self/logo.png
+![](./logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
  новейших технологий искусственного интеллекта.
@@ -9,7 +9,7 @@ https://github.com/netology-ds-team/git-homeworks/raw/main/1_self/logo.png
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
-* 
+  
 * ## Мы на столько крутые, что уже успели поработать со следующими команиями:
 
 1. ООО «Рога и копыта»
@@ -25,3 +25,5 @@ https://github.com/netology-ds-team/git-homeworks/raw/main/1_self/logo.png
   color: red;
 }
 ```
+
+[def]: ./logo.png
